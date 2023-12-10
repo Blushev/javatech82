@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7787e40-f906-4c05-8012-a2edc81daef5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ModularConsoleAppApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ModuleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/FileModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/FileModuleComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/audio/Mp3DurationModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/audio/Mp3TagEditorModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/audio/Mp3TrackInfoModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/directory/DirectorySizeModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/directory/LargeFilesCountModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/directory/ListFilesModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/image/DominantColorImageModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/image/ExifInfoModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/image/ImageSizeModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/text/CharacterFrequencyModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/text/CountLinesModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/modules/text/WordFrequencyModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="c7787e40-f906-4c05-8012-a2edc81daef5" name="Changes" comment="Done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,11 +59,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702207705781</updated>
-      <workItem from="1702207706736" duration="13802000" />
+      <workItem from="1702207706736" duration="14158000" />
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <option name="closed" value="true" />
+      <created>1702221870082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702221870082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
 </project>
